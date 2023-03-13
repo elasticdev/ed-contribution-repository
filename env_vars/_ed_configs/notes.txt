@@ -1,0 +1,2 @@
+This permanent reference for env vars is not used that often.  But it is useful for things
+that don't change that often.  For example, container_run_env=docker
