@@ -1,0 +1,11 @@
+desc: Provide a brief description
+release: 0.0.1
+categories: 
+   - category_1
+   - category_2
+   - saas
+tags:
+   - cloud
+   - server
+   - aws
+   - infrastructure
